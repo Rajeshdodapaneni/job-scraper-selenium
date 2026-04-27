@@ -38,4 +38,4 @@ python main.py
 Automates job data collection and eliminates manual searching.
 
 ## 🔗 GitHub Link
-https://github.com/Rajeshdodapaneni/web_scrapping
+https://github.com/Rajeshdodapaneni/job-scraper-selenium
